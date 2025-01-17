@@ -44,7 +44,7 @@ In G41, Jenkins jobs run OWASP scans on source code.
 
 DevSecOps Skills sorted by 7 day job postings from dice.com for Boston on-site or hybrid 12/24/2024
 -----------------
-'''
+```
 All jobs 503
 Python 102
 AWS 100
@@ -60,11 +60,11 @@ jenkins 8
 terraform 8
 devsecops 5
 ansible 5
-'''
+```
 
 DevSecOps Skills sorted by 7 day job postings from dice.com for Boston on-site or hybrid 1/17/2025
 -----------------
-'''
+```
 All jobs 406
 Python 70
 AWS 62
@@ -80,4 +80,4 @@ jenkins 10
 terraform 10
 devsecops 1
 ansible 3
-'''
+```
