@@ -41,27 +41,6 @@ https://owasp.org/www-project-dependency-check/
 https://github.com/jeremylong/DependencyCheck
 In G41, Jenkins jobs run OWASP scans on source code.
 
-
-DevSecOps Skills sorted by 7 day job postings from dice.com for Boston on-site or hybrid 12/24/2024
------------------
-```
-All jobs 503
-Python 102
-AWS 100
-Azure 75
-Golang 74
-Java 63
-GCP 45
-linux 47
-devops 24
-kubernetes 28
-docker 24
-jenkins 8
-terraform 8
-devsecops 5
-ansible 5
-```
-
 DevSecOps Skills sorted by 7 day job postings from dice.com for Boston on-site or hybrid 1/17/2025
 -----------------
 ```
@@ -100,4 +79,24 @@ jenkins 61
 terraform 45
 devsecops 23
 ansible 29
+```
+
+DevSecOps Skills sorted by 7 day job postings from dice.com for Boston on-site or hybrid 3/09/2025
+-----------------
+```
+All jobs 1632
+Python 289
+AWS 240
+Azure 214
+Golang 120
+Java 167
+GCP 114
+linux 120
+devops 153
+kubernetes 102
+docker 79
+jenkins 50
+terraform 54
+devsecops 19
+ansible 43
 ```
