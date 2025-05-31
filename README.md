@@ -31,15 +31,20 @@ Setup DSO Tools like Jenkins, Nexus and Sonarqube
 https://github.com/joelckwong/DevSecOps-Tools
 Jenkins is an automated jobs server, nexus stores artifacts like jars and wheels and docker containers.  Sonarqube scans your code for OWASP Top 10 vulnerabilities.
 
-OWASP Top 10
+CWE Top 25 (Most dangerous software vulnerabilities) 
+-----------------
+Understand what are some CWE Top 25 Software Development Vulnerabilities [https://owasp.org/www-project-top-ten/](https://cwe.mitre.org/top25/)
+
+OWASP Top 10 (Most critical security risks to web applications)
 -----------------
 Understand what are some OWASP Top 10 Software Development Vulnerabilities https://owasp.org/www-project-top-ten/
 
+CVEs in 3rd party libraries in OS or used by your code
+-----------------
 OWASP Dependency Check is a software program which checks your source code for libraries which you use which have 
 CVEs. https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures
 https://owasp.org/www-project-dependency-check/
 https://github.com/jeremylong/DependencyCheck
-In G41, Jenkins jobs run OWASP scans on source code.
 
 DevSecOps Skills sorted by 7 day job postings from dice.com for Boston on-site or hybrid 1/17/2025
 -----------------
@@ -119,4 +124,24 @@ jenkins 68
 terraform 45
 devsecops 14
 ansible 29
+```
+
+DevSecOps Skills sorted by 7 day job postings from dice.com for Boston on-site or hybrid 5/31/2025
+-----------------
+```
+All jobs 300
+Python 47
+AWS 44
+Azure 33
+Golang 19
+Java 27
+GCP 14
+linux 27
+devops 29
+kubernetes 14
+docker 14
+jenkins 8
+terraform 7
+devsecops 8
+ansible 4
 ```
