@@ -17,10 +17,19 @@ Redhat Linux Tutorial
 -----------------
 https://github.com/jrandj/redhat
 
+Packer Tutorial
+-----------------
+https://www.youtube.com/watch?v=dde-bWUeRMo
+
 Ansible Tutorial
 -----------------
 https://github.com/joelckwong/setup/blob/master/rocky8.sh#L1 to L18 is how you install ansible on Redhat 8.  Rocky 8 is an opensource version of Redhat 8.
 https://github.com/jrandj/redhat?tab=readme-ov-file#RHCE-9
+
+Terraform Tutorial
+-----------------
+https://www.youtube.com/watch?v=l5k1ai_GBDE&t=1093s
+https://www.youtube.com/watch?v=7xngnjfIlK4&t=1s
 
 DevSecOps Example Tutorial
 -----------------
