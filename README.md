@@ -20,6 +20,9 @@ https://github.com/jrandj/redhat
 Packer Tutorial
 -----------------
 https://www.youtube.com/watch?v=dde-bWUeRMo
+Login to https://www.pluralsight.com/ and take the Getting Started with HashiCorp Packer course
+https://github.com/joelckwong/setup/blob/master/rocky8.sh#L27 to L33 is how you install packer
+Try https://github.com/joelckwong/packer-aws
 
 Ansible Tutorial
 -----------------
@@ -30,6 +33,14 @@ Terraform Tutorial
 -----------------
 https://www.youtube.com/watch?v=l5k1ai_GBDE&t=1093s
 https://www.youtube.com/watch?v=7xngnjfIlK4&t=1s
+
+Security+ SYO-701 Tutorial
+-----------------
+https://github.com/pattersondev/CompTIA-SYO-701/blob/main/study.md
+https://github.com/CraigAtaide/comptia-sy0-701-security-study-notes
+https://github.com/MaheshShukla1/CompTIA-Security-Plus-SY0-701-Notes-CheatSheet-Exam-Prep
+https://github.com/V-Le/SY0-701_Notes?tab=readme-ov-file (optional since it takes too much time to watch the videos)
+Login to ChatGPT and generate practice example exam qustions
 
 DevSecOps Example Tutorial
 -----------------
