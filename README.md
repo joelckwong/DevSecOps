@@ -20,8 +20,8 @@ https://github.com/jrandj/redhat
 Packer Tutorial
 -----------------
 https://www.youtube.com/watch?v=dde-bWUeRMo
-Login to https://www.pluralsight.com/ and take the Getting Started with HashiCorp Packer course
-https://github.com/joelckwong/setup/blob/master/rocky8.sh#L27 to L33 is how you install packer
+Login to https://www.pluralsight.com/ and take the Getting Started with HashiCorp Packer course.
+https://github.com/joelckwong/setup/blob/master/rocky8.sh#L27 to L33 is how you install packer.
 Try https://github.com/joelckwong/packer-aws
 
 Ansible Tutorial
