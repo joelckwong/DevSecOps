@@ -34,6 +34,14 @@ Terraform Tutorial
 https://www.youtube.com/watch?v=l5k1ai_GBDE&t=1093s
 https://www.youtube.com/watch?v=7xngnjfIlK4&t=1s
 
+Github Actions CICD
+-----------------
+https://www.youtube.com/watch?v=R8_veQiYBjI&t=1s
+
+Gitlab CICD
+-----------------
+https://www.youtube.com/watch?v=qP8kir2GUgo&t=85s
+
 Security+ SYO-701 Tutorial
 -----------------
 https://github.com/pattersondev/CompTIA-SYO-701/blob/main/study.md
