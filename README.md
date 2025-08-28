@@ -34,7 +34,7 @@ Terraform Tutorial
 https://www.youtube.com/watch?v=l5k1ai_GBDE&t=1093s
 https://www.youtube.com/watch?v=7xngnjfIlK4&t=1s
 
-What is CICD
+What is CICD?
 -----------------
 https://www.youtube.com/watch?v=AknbizcLq4w
 
