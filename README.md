@@ -16,6 +16,7 @@ https://www.youtube.com/watch?v=8vXoMqWgbQQ1
 Redhat Linux Tutorial
 -----------------
 https://github.com/jrandj/redhat
+https://www.youtube.com/watch?v=CLh2ACdXNbc
 
 Packer Tutorial
 -----------------
