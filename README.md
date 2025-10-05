@@ -214,6 +214,7 @@ devops 36
 kubernetes 20
 docker 21
 jenkins 19
+```
 
 DevSecOps Skills sorted by 7 day job postings from dice.com for Boston on-site or hybrid 10/5/2025
 -----------------
