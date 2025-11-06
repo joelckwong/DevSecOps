@@ -233,7 +233,28 @@ docker 34
 jenkins 16
 terraform 12
 devsecops 14
+ansible 8
+```
+
+DevSecOps Skills sorted by 7 day job postings from dice.com for Boston on-site or hybrid 11/6/2025
+-----------------
+```
+All jobs 513
+AI 162
+Python 123
+AWS 69
+Azure 71
+Golang 44
+Java 39
+GCP 25
+linux 40
+devops 37
+kubernetes 23
+docker 21
+jenkins 15
+terraform 11
+devsecops 12
 terraform 19
 devsecops 3
-ansible 8
+ansible 13
 ```
