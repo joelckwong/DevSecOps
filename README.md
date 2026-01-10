@@ -29,6 +29,8 @@ Ansible Tutorial
 -----------------
 https://github.com/joelckwong/setup/blob/master/rocky8.sh#L1 to L18 is how you install ansible on Redhat 8.  Rocky 8 is an opensource version of Redhat 8.
 https://github.com/jrandj/redhat?tab=readme-ov-file#RHCE-9
+https://www.youtube.com/watch?v=p9bda0-TIRc&list=PLleCw-vqe90At4NBfBu1OwaOcAOScocy2&index=5
+https://www.youtube.com/watch?v=p6ncZ_DES7o&list=PLleCw-vqe90At4NBfBu1OwaOcAOScocy2&index=8
 
 Terraform Tutorial
 -----------------
