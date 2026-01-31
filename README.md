@@ -82,24 +82,24 @@ CVEs. https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures
 https://owasp.org/www-project-dependency-check/
 https://github.com/jeremylong/DependencyCheck
 
-DevSecOps Skills sorted by 7 day job postings from dice.com for Boston on-site or hybrid 1/17/2025
+DevSecOps Skills sorted by 7 day job postings from dice.com for Boston on-site or hybrid 1/31/2026
 -----------------
 ```
-All jobs 406
-Python 70
-AWS 62
-Azure 41
-Golang 22
-Java 44
+All jobs 388
+Python 81
+AWS 50
+Azure 45
+Golang 27
+Java 32
 GCP 16
-linux 23
-devops 27
-kubernetes 13
-docker 12
+linux 36
+devops 42
+kubernetes 21
+docker 17
 jenkins 10
-terraform 10
-devsecops 1
-ansible 3
+terraform 18
+devsecops 12
+ansible 8
 ```
 
 DevSecOps Skills sorted by 7 day job postings from dice.com for Boston on-site or hybrid 2/11/2025
